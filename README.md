@@ -4,22 +4,24 @@ Jeden zweiten Tag des Jahres 2026 löse ich eine C# Programmieraufgabe, um meine
 
 ## 📊 Fortschritt
 
-**Gesamtfortschritt:** 0/183 Tage abgeschlossen (0%)
+**Gesamtfortschritt:** 2/183 Tage abgeschlossen (0%)
 
 ## 📅 Challenge-Tage
 
 ### Januar 2026
-| Tag | Datum | Thema | Status | Schwierigkeit |
+| Tag | Datum | Aufgabe | Status | Sprache |
 |-----|-------|-------|--------|---------------|
-| 001 | 01.01 | | ⬜ Ausstehend | - |
+| 001 | 27.12. | hello-world| ✅ Abgeschlossen | C# |
+| 002 | 27.12. | lucians-luscious-lasagna| ✅ Abgeschlossen | C# |
+
 
 ## 📈 Statistiken
 
 - **Gesamt:** 183 Herausforderungen
-- **Abgeschlossen:** 0
+- **Abgeschlossen:** 2
 - **Ausstehend:** 183
 - **Schwierigkeitsgrad:**
-  - 🟢 Einfach: 0
+  - 🟢 Einfach: 2
   - 🟡 Mittel: 0
   - 🔴 Schwer: 0
 
@@ -38,11 +40,7 @@ Jeden zweiten Tag des Jahres 2026 löse ich eine C# Programmieraufgabe, um meine
 
 ## 💡 Aufgaben-Quellen
 
-- [LeetCode](https://leetcode.com/)
-- [HackerRank](https://www.hackerrank.com/domains/tutorials/10-days-of-csharp)
 - [Exercism](https://exercism.org/tracks/csharp)
-- [Codewars](https://www.codewars.com/)
-- [Project Euler](https://projecteuler.net/)
 
 ## 📝 Notizen
 
