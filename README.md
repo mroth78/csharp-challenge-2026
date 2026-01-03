@@ -4,7 +4,7 @@ Jeden zweiten Tag des Jahres 2026 löse ich eine C# Programmieraufgabe, um meine
 
 ## 📊 Fortschritt
 
-**Gesamtfortschritt:** 2/183 Tage abgeschlossen (0%)
+**Gesamtfortschritt:** 3/183 Tage abgeschlossen (1,7%)
 
 ## 📅 Challenge-Tage
 
@@ -12,22 +12,23 @@ Jeden zweiten Tag des Jahres 2026 löse ich eine C# Programmieraufgabe, um meine
 | Tag | Datum | Aufgabe | Status | Sprache |
 |-----|-------|-------|--------|---------------|
 | 001 | 27.12. | hello-world| ✅ Abgeschlossen | C# |
-| 002 | 27.12. | lucians-luscious-lasagna| ✅ Abgeschlossen | C# |
+| 002 | 27.12. | lucians-luscious-lasagna | ✅ Abgeschlossen | C# |
+| 003 | 03.01. | annalyns-infiltration | ✅ Abgeschlossen | C# |
 
 
 ## 📈 Statistiken
 
 - **Gesamt:** 183 Herausforderungen
-- **Abgeschlossen:** 2
+- **Abgeschlossen:** 3
 - **Ausstehend:** 183
 - **Schwierigkeitsgrad:**
-  - 🟢 Einfach: 2
+  - 🟢 Einfach: 3
   - 🟡 Mittel: 0
   - 🔴 Schwer: 0
 
 ## 🎯 Themengebiete
 
-- [ ] Grundlagen (Variablen, Schleifen, Bedingungen)
+- [X] Grundlagen (Variablen, Schleifen, Bedingungen)
 - [ ] Collections (Arrays, Lists, Dictionaries)
 - [ ] OOP (Klassen, Vererbung, Interfaces)
 - [ ] LINQ
