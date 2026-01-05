@@ -1,6 +1,7 @@
 <Solution>
   <Folder Name="/exercism/">
     <Project Path="exercism/annalyns-infiltration/AnnalynsInfiltration.csproj" />
+    <Project Path="exercism/cars-assemble/CarsAssemble.csproj" />
     <Project Path="exercism/hello-world/HelloWorld.csproj" />
     <Project Path="exercism/lucians-luscious-lasagna/LuciansLusciousLasagna.csproj" />
   </Folder>
