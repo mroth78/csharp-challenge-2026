@@ -4,7 +4,7 @@ Jeden zweiten Tag des Jahres 2026 löse ich eine C# Programmieraufgabe, um meine
 
 ## 📊 Fortschritt
 
-**Gesamtfortschritt:** 4/183 Tage abgeschlossen (2,2%)
+**Gesamtfortschritt:** 5/183 Tage abgeschlossen (2,7%)
 
 ## 📅 Challenge-Tage
 
@@ -15,15 +15,17 @@ Jeden zweiten Tag des Jahres 2026 löse ich eine C# Programmieraufgabe, um meine
 | 002 | 27.12. | lucians-luscious-lasagna | ✅ Abgeschlossen | C# |
 | 003 | 03.01. | annalyns-infiltration    | ✅ Abgeschlossen | C# |
 | 004 | 05.01. | cars-assemble            | ✅ Abgeschlossen | C# |
+| 005 | 07.01. | interestIsIntresting     | ✅ Abgeschlossen | C# |
+
 
 
 ## 📈 Statistiken
 
 - **Gesamt:** 183 Herausforderungen
-- **Abgeschlossen:** 4
-- **Ausstehend:** 179
+- **Abgeschlossen:** 5
+- **Ausstehend:** 178
 - **Schwierigkeitsgrad:**
-  - 🟢 Einfach: 4
+  - 🟢 Einfach: 5
   - 🟡 Mittel: 0
   - 🔴 Schwer: 0
 
@@ -49,7 +51,12 @@ Jeden zweiten Tag des Jahres 2026 löse ich eine C# Programmieraufgabe, um meine
 ### Was ich gelernt habe
 - Numbers
 - If-Statements
-
+- Basics
+- Boolean
+- Numbers
+- Floating Point Numbers
+- While Loops
+- 
 ### Herausforderungen
 - ...
 
